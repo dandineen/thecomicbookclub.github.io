@@ -93,7 +93,7 @@ Reviewing:
 Reviewing:
 
 - **His own books** - 38pts/15 = 2.5pts
-- **Kelv's books** - 26pts/8 = 3.3pts
+- **Kelv's books** - 26pts/10 = 2.6pts
 - **Tom's books** - 45pts/14 = 3.2pts
 - **Dan's books** - 44pts/15 = 2.9pts
 
@@ -113,7 +113,7 @@ Reviewing:
 
 1. **Kelv** (3.3pts)
 1. **Tom** (3.2pts)
-1. **Jake** (3pts)
+1. **Jake** (2.8pts)
 1. **Dan** (2.6pts)
 
 > Kelv's the most positive reviewer of the bunch, handing out 3pt+ average scores to everyone! 
@@ -136,8 +136,6 @@ Tom’s top of the fivers list having given top marks 6 times out of 54 books. T
 
 > Jake and Dan have both issued 3 ‘5-star’ reviews. Kelv has given 2.
 
-——-
-
 ## The best of the bunch
 
 The top two books are pretty clear cut - Daniel Warren’s amazing [Extremity]({{site-url}}/extremity) garnered a **93%** approval and the [Encyclopaedia of Early Earth]({{site-url}}/the-encyclopedia-of-early-earth) was close behind on **90%**. Two very different books but both utterly deserving of their high scores.
@@ -145,18 +143,18 @@ The top two books are pretty clear cut - Daniel Warren’s amazing [Extremity]({
 5 books, all scoring **80%**, are in joint third. There are 7 books with **75%** at joint 4th and 3 more on 73% that make up the joint 5th spot. 
 
 1. **93%** - Extremity (Tom)
-2. **90%** - Encyclopaedic of Early Earth (Jake)
-3. **80%** - Metabarons(Dan), Yotsuba (Kelv), The Shadow Hero (Kelv), Beasts of Burden (Dan), Batman Universe (Kelv)
-4. **75%** - The Auteur (Dan), The Private Eye (Tom), Resident Alien (Dan), Kaijumax (Dan), Black Hammer (Tom), Silver Surfer Black (Tom), The Witches (Jake)
-5. **73%** - Rock Candy Mountain (Tom), SnagglePuss (Tom), Bone (Dan)
+1. **90%** - Encyclopaedic of Early Earth (Jake)
+1. **80%** - Metabarons(Dan), Yotsuba (Kelv), The Shadow Hero (Kelv), Beasts of Burden (Dan), Batman Universe (Kelv)
+1. **75%** - The Auteur (Dan), The Private Eye (Tom), Resident Alien (Dan), Kaijumax (Dan), Black Hammer (Tom), Silver Surfer Black (Tom), The Witches (Jake)
+1. **73%** - Rock Candy Mountain (Tom), SnagglePuss (Tom), Bone (Dan)
 
 If you haven't read any of these then we'd heartily encourage you to do so. We may not have all agreed on their brilliance but you can be certain that at least 3 of us thought they rocked.
 
 ### Who picked the most 'good' books in the top 5?
 
 1. Tom & Dan (6)
-2. Kelv (3)
-3. Jake (2)
+1. Kelv (3)
+1. Jake (2)
 
 ## The worst offenders
 
